@@ -1,0 +1,11 @@
+.initiativeCards {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px 5px;
+    background-color: blanchedalmond;
+}
+
+.initiativeCard {
+    width: 32%;
+}
